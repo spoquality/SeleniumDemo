@@ -1,4 +1,4 @@
-package com.spoquality.automation.seleniumautomation;
+package com.spoquality.automation.seleniumautomation; 
 
 import static org.junit.Assert.assertTrue;
 
